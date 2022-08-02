@@ -1,0 +1,11 @@
+git git init / git clone
+git add / git add --all
+git commit -m "message"
+git checkout 
+git branch name 
+git merge name
+git diff -> to show the last added content
+git stash -> to remove the last added content
+git  remote add name <link>
+git push name branchName 
+git pull/git fetch
